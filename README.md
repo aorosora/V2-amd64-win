@@ -12,7 +12,7 @@ Goto line 64, fine `// _ "v2ray.com/core/main/jsonem"` and change to `_ "v2ray.c
 ## Compile
 Download and install golang in https://golang.org/dl.<br>
 Use powershell or cmd to execute commands `go env -w GO111MODULE=on GOPROXY=https://goproxy.cn,https://goproxy.io,direct`.<br>
-Download v2ray's source code in https://github.com/v2fly/v2ray-core (or https://codeload.github.com/v2fly/v2ray-core/tar.gz/v4.31.2 ).<br>
+Download v2ray's source code in https://github.com/v2fly/v2ray-core (or https://codeload.github.com/v2fly/v2ray-core/tar.gz/v4.31.3 ).<br>
 Open a command window in source folder.<br>
 Execute these commands:<br>
 ```
