@@ -1,4 +1,7 @@
 # V2Ray
+This feature is enabled default by officially. https://github.com/v2fly/v2ray-core/releases/tag/v4.32.0
+
+# V2Ray
 Load JSON internally.
 
 ## Source
